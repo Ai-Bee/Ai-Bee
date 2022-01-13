@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React Native, Go, WEb-AR**
 
-- 👨‍💻 All of my projects are available at [https://aibee-portfolio.netlify.app](https://aibee-portfolio.netlify.app)
+- 👨‍💻 Most of my projects are available at [https://aibee-portfolio.netlify.app](https://aibee-portfolio.netlify.app)
 
-- 📝 I regularly write articles on [https://medium.com/@iboroinyang01](https://medium.com/@iboroinyang01)
+- 📝 I write articles on [https://medium.com/@iboroinyang01](https://medium.com/@iboroinyang01)
 
 - 💬 Ask me about **Tech and Christ**
 
