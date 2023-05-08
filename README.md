@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ai-bee" alt="ai-bee" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Go, WEb-AR**
+- 🌱 I’m currently learning **Go, WEb-AR**
 
 - 👨‍💻 Most of my projects are available at [https://aibee-portfolio.netlify.app](https://aibee-portfolio.netlify.app)
 
