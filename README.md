@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Go, WEb-AR**
 
-- 👨‍💻 Most of my projects are available at [https://aibee-portfolio.netlify.app](https://aibee-portfolio.netlify.app)
-
 - 📝 I write articles on [https://medium.com/@iboroinyang01](https://medium.com/@iboroinyang01)
 
 - 💬 Ask me about **Tech and Christ**
