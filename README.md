@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ai-bee&show_icons=true&locale=en" alt="ai-bee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ai-bee&" alt="ai-bee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ai-bee&theme=monokai" alt="ai-bee" /></p>
